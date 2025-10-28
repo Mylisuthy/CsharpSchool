@@ -1,0 +1,16 @@
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/bin/Debug/net8.0/School.Application.deps.json
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/bin/Debug/net8.0/School.Application.dll
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/bin/Debug/net8.0/School.Application.pdb
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/bin/Debug/net8.0/School.Domain.dll
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/bin/Debug/net8.0/School.Domain.pdb
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/School.Application.csproj.AssemblyReference.cache
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/School.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/School.Application.AssemblyInfoInputs.cache
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/School.Application.AssemblyInfo.cs
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/School.Application.csproj.CoreCompileInputs.cache
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/School.Application.sourcelink.json
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/School.A.0288516A.Up2Date
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/School.Application.dll
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/refint/School.Application.dll
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/School.Application.pdb
+/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/Debug/net8.0/ref/School.Application.dll
