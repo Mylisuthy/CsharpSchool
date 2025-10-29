@@ -1,0 +1,12 @@
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/bin/Debug/net8.0/School.Domain.deps.json
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/bin/Debug/net8.0/School.Domain.dll
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/bin/Debug/net8.0/School.Domain.pdb
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/Debug/net8.0/School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/Debug/net8.0/School.Domain.AssemblyInfoInputs.cache
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/Debug/net8.0/School.Domain.AssemblyInfo.cs
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/Debug/net8.0/School.Domain.csproj.CoreCompileInputs.cache
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/Debug/net8.0/School.Domain.sourcelink.json
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/Debug/net8.0/School.Domain.dll
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/Debug/net8.0/refint/School.Domain.dll
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/Debug/net8.0/School.Domain.pdb
+/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/Debug/net8.0/ref/School.Domain.dll
