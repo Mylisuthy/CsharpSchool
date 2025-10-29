@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/mylisuthy/Escritorio/CsharpSchool/School.Api/School.Api.csproj": {}
+    "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Api\\School.Api.csproj": {}
   },
   "projects": {
-    "/home/mylisuthy/Escritorio/CsharpSchool/School.Api/School.Api.csproj": {
+    "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Api\\School.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mylisuthy/Escritorio/CsharpSchool/School.Api/School.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Api\\School.Api.csproj",
         "projectName": "School.Api",
-        "projectPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Api/School.Api.csproj",
-        "packagesPath": "/home/mylisuthy/.nuget/packages/",
-        "outputPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Api/obj/",
+        "projectPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Api\\School.Api.csproj",
+        "packagesPath": "C:\\Users\\Msuthy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mylisuthy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Msuthy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/mylisuthy/Escritorio/CsharpSchool/School.Application/School.Application.csproj": {
-                "projectPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Application/School.Application.csproj"
+              "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Application\\School.Application.csproj": {
+                "projectPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Application\\School.Application.csproj"
               },
-              "/home/mylisuthy/Escritorio/CsharpSchool/School.Infrastructure/School.Infrastructure.csproj": {
-                "projectPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Infrastructure/School.Infrastructure.csproj"
+              "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Infrastructure\\School.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Infrastructure\\School.Infrastructure.csproj"
               }
             }
           }
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -76,6 +77,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -84,21 +103,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/mylisuthy/Escritorio/CsharpSchool/School.Application/School.Application.csproj": {
+    "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Application\\School.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mylisuthy/Escritorio/CsharpSchool/School.Application/School.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Application\\School.Application.csproj",
         "projectName": "School.Application",
-        "projectPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Application/School.Application.csproj",
-        "packagesPath": "/home/mylisuthy/.nuget/packages/",
-        "outputPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Application/obj/",
+        "projectPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Application\\School.Application.csproj",
+        "packagesPath": "C:\\Users\\Msuthy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mylisuthy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Msuthy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -110,8 +129,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/School.Domain.csproj": {
-                "projectPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/School.Domain.csproj"
+              "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\School.Domain.csproj": {
+                "projectPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\School.Domain.csproj"
               }
             }
           }
@@ -125,7 +144,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -141,26 +161,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/School.Domain.csproj": {
+    "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\School.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/School.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\School.Domain.csproj",
         "projectName": "School.Domain",
-        "projectPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/School.Domain.csproj",
-        "packagesPath": "/home/mylisuthy/.nuget/packages/",
-        "outputPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/",
+        "projectPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\School.Domain.csproj",
+        "packagesPath": "C:\\Users\\Msuthy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mylisuthy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Msuthy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -183,7 +217,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -199,26 +234,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/mylisuthy/Escritorio/CsharpSchool/School.Infrastructure/School.Infrastructure.csproj": {
+    "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Infrastructure\\School.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mylisuthy/Escritorio/CsharpSchool/School.Infrastructure/School.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Infrastructure\\School.Infrastructure.csproj",
         "projectName": "School.Infrastructure",
-        "projectPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Infrastructure/School.Infrastructure.csproj",
-        "packagesPath": "/home/mylisuthy/.nuget/packages/",
-        "outputPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Infrastructure/obj/",
+        "projectPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Infrastructure\\School.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Msuthy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mylisuthy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Msuthy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -230,8 +279,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/School.Domain.csproj": {
-                "projectPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/School.Domain.csproj"
+              "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\School.Domain.csproj": {
+                "projectPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\School.Domain.csproj"
               }
             }
           }
@@ -245,7 +294,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -277,12 +327,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

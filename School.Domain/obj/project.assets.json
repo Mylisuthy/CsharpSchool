@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/mylisuthy/.nuget/packages/": {}
+    "C:\\Users\\Msuthy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/School.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\School.Domain.csproj",
       "projectName": "School.Domain",
-      "projectPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/School.Domain.csproj",
-      "packagesPath": "/home/mylisuthy/.nuget/packages/",
-      "outputPath": "/home/mylisuthy/Escritorio/CsharpSchool/School.Domain/obj/",
+      "projectPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\School.Domain.csproj",
+      "packagesPath": "C:\\Users\\Msuthy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Msuthy\\Desktop\\CsharpSchool\\School.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/mylisuthy/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Msuthy\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -43,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -59,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.21, 8.0.21]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.21, 8.0.21]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.21, 8.0.21]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
